@@ -1,0 +1,33 @@
+_repo: Monkey-On-His-Back_26569
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Vet, Charles V. (Charles Vincent)
+    aliases:
+    - De Vet, Charles Vincent
+    - Vet, Charles V. de
+    - DeVet, Charles V.
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+title: Monkey On His Back
+url: http://www.gutenberg.org/ebooks/26569
